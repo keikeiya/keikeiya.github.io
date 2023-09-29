@@ -1,0 +1,13 @@
+@media (max-width:670px ) {
+    /* lessonクラスのCSSを指定してください */
+    .event-section {
+      width:100%;
+      margin-bottom:50px;
+    }
+
+    .manegement-section {
+      width:100%;
+      margin-bottom:50px
+    }
+    
+  }
