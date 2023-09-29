@@ -214,7 +214,8 @@ font-size: 12px;
 
 footer {
 padding-top: 30px;
-float:center;
+margin-right:auto;
+margin-left:auto;
 }
 
 .footer-container {
