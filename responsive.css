@@ -1,5 +1,4 @@
-@media (max-width:670px ) {
-    /* lessonクラスのCSSを指定してください */
+@media (max-width:670px )
     .event-section {
       width:100%;
       margin-bottom:50px;
@@ -9,5 +8,9 @@
       width:100%;
       margin-bottom:50px
     }
+
+footer {
+    text-align:center;
+  }
     
   }
