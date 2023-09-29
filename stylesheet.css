@@ -214,13 +214,11 @@ font-size: 12px;
 
 footer {
 padding-top: 30px;
-margin-right:auto;
-margin-left:auto;
+text-align:center;
 }
 
 .footer-container {
   line-height:2px;
   padding:10px;
-  margin-right:auto;
-  margin-left:auto;
+  text-align:center;
 }
